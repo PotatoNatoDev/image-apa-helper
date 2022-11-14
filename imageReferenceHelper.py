@@ -2,7 +2,7 @@ import pyperclip
 
 def main():
     
-    t = input('Who is the author(Last name, first inital, second inital): ')
+    t = input('Who is the author(Last name, first inital.second inital): ')
     if t != '':
         author = t
     else:
